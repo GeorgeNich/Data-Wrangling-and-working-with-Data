@@ -1,0 +1,2 @@
+# Data-Wrangling-and-working-with-Data
+This repository contains a collection of Jupyter notebooks and Python scripts that demonstrate various data wrangling, cleaning, and processing techniques. The materials cover essential topics such as handling missing values, data transformation, and data aggregation. The repository serves as a practical guide for individuals looking to improve their data handling skills and gain hands-on experience in working with diverse datasets.
