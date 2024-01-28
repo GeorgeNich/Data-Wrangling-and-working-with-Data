@@ -9,9 +9,7 @@ This repository contains a collection of Jupyter notebooks and Python scripts th
 - [Notebooks](#notebooks)
 - [Description](#description)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Notebooks
 
