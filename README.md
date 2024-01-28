@@ -40,3 +40,8 @@ but they should already be AVAILABLE via anaconda.
 
 ```bash
 pip install numpy pandas seaborn
+
+
+Image rights go to:
+https://monkeylearn.com/blog/data-wrangling/
+https://monkeylearn.com/static/b823e744c7c3380b2b7cc360a07fc20d/a5e2e/data-wrangling-steps.webp
