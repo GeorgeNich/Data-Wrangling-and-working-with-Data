@@ -15,13 +15,13 @@ This repository contains a collection of Jupyter notebooks and Python scripts th
 
 ## Notebooks
 
-1. [Introduction to Python and Jupyter Notebooks](1. Introduction to Python and Jupyter Notebooks.ipynb)
+1. [Introduction to Python and Jupyter Notebooks](1.%20Introduction%20to%20Python%20and%20Jupyter%20Notebooks.ipynb)
    - Description: Basics of Python and Jupyter for data analysis.
-2. [Working with Numpy Vectors](2. Working with numpy Vectors.ipynb)
+2. [Working with Numpy Vectors](2.%20Working%20with%20numpy%20Vectors.ipynb)
    - Description: Exploring numpy vectors and their operations.
-3. [Working with Numpy Matrices](3. Working with numpy Matrices.ipynb)
+3. [Working with Numpy Matrices](3.%20Working%20with%20numpy%20Matrices.ipynb)
    - Description: A tutorial on numpy matrices.
-4. [Working with Pandas Data Frames (Heterogeneous Data)](4. Working with Pandas Data Frames (Heterogeneous Data).ipynb)
+4. [Working with Pandas Data Frames (Heterogeneous Data)](4.%20Working%20with%20Pandas%20Data%20Frames%20(Heterogeneous%20Data).ipynb)
    - Description: Handling heterogeneous data with Pandas DataFrames.
 
 ## Description
