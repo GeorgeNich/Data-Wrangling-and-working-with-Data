@@ -15,19 +15,13 @@ This repository contains a collection of Jupyter notebooks and Python scripts th
 
 ## Notebooks
 
-1. [Data Wrangling and Cleaning](1P-Updated.ipynb)
-   - Description: An example notebook showcasing data cleaning techniques.
-   
+1. [Introduction to Python and Jupyter Notebooks](1. Introduction to Python and Jupyter Notebooks.ipynb)
+   - Description: Basics of Python and Jupyter for data analysis.
 2. [Working with Numpy Vectors](2. Working with numpy Vectors.ipynb)
    - Description: Exploring numpy vectors and their operations.
-   
-3. [Using Seaborn to Visualize Data](2P_GeorgeNicholsonpythonnotebook.pdf)
-   - Description: Utilizing seaborn for data visualization.
-   
-4. [Working with Numpy Matrices](3. Working with numpy Matrices.ipynb)
+3. [Working with Numpy Matrices](3. Working with numpy Matrices.ipynb)
    - Description: A tutorial on numpy matrices.
-   
-5. [Working with Pandas Data Frames](4. Working with Pandas Data Frames (Heterogeneous Data).ipynb)
+4. [Working with Pandas Data Frames (Heterogeneous Data)](4. Working with Pandas Data Frames (Heterogeneous Data).ipynb)
    - Description: Handling heterogeneous data with Pandas DataFrames.
 
 ## Description
