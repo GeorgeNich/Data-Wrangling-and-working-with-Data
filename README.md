@@ -2,7 +2,7 @@
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/GeorgeNich/Data-Wrangling-and-working-with-Data)
 
-This repository contains a collection of Jupyter notebooks and Python scripts that demonstrate various data wrangling, cleaning, and processing techniques. The materials cover essential topics such as handling missing values, data transformation, and data aggregation. It serves as a practical guide for individuals looking to improve their data handling skills and gain hands-on experience in working with diverse datasets.
+This repository contains a collection of Jupyter notebooks that demonstrate the various data wrangling, cleaning, and processing techniques I have learnt through my Completion of SIT220 – Data wrangling. The resources completed cover crucial topics such as handling missing values, data transformation, and data aggregation. It showcases as a guide for the work I have completed in relation to looking to improve my data handling skills and gain hands-on experience in working with diverse yet dynamic datasets.
 
 ## Table of Contents
 
